@@ -1,10 +1,14 @@
 ## INFORMATION
 This is a bot from Dropee
 
-• Active Features:
+Active Features :
+
 • Auto Checkin
+
 • Auto Upgrade
+
 • Auto Spin << Max 100 /day
+
 • Support Multi Account
 
 Join Link: https://t.me/DropeeBot/play?startapp=ref_2kdDbCSnLG_
